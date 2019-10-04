@@ -1,7 +1,7 @@
 
 
 {
-	"name": "VersView Presentation",
+	"name": "Name",
 	"version": "1.0",
 	"manifest_version":2,
 	
@@ -11,7 +11,7 @@
 	},
 */
 	"browser_action": {
-		"default_title": "VersView Presentation",
+		"default_title": "Name",
 		"default_popup": "index.html"
 	},
 	
